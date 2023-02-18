@@ -1,0 +1,45 @@
+body {
+    background-color: #2F4F4F;
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+li {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.button {
+    color: white;
+    border-style: solid;
+    border-color: white;
+    border-radius: 5px 5px 5px 5px;
+    background-color: #2F4F4F;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+}
+
+.recipe-links {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+}
+
+.center {
+    text-align: center;
+
+}
